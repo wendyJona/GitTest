@@ -1,0 +1,10 @@
+{
+  "Tags": [
+    {
+      "Key": "Autopilot"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true,
+  "ConnectorKeys": []
+}

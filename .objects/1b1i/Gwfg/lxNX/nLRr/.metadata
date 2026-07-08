@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Current Yearly",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "nLRrZDx0E0el3f9Xrsdf3g",
+  "Reference": "yydL2ld_gUOxbgH22DU6hw/nLRrZDx0E0el3f9Xrsdf3g",
+  "ParentRef": "yydL2ld_gUOxbgH22DU6hw/lxNXwZP9306tTFEgZpf7LQ",
+  "Created": "2026-05-25T20:05:13.5884955Z",
+  "Updated": "2026-05-25T20:05:13.5884955Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
